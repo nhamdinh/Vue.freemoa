@@ -1,0 +1,24 @@
+<svg data-name="그룹 22424" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <clipPath id="dcu3pyn4ja">
+            <path data-name="사각형 12169" style="fill:none;stroke:#006dde" d="M0 0h22v22H0z"/>
+        </clipPath>
+        <clipPath id="a1v22eew7b">
+            <path data-name="사각형 12167" transform="translate(7 7)" style="fill:none;stroke:#006dde" d="M0 0h14v14H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 22423" style="clip-path:url(#dcu3pyn4ja)">
+        <g data-name="그룹 22422">
+            <g data-name="그룹 22421" style="clip-path:url(#dcu3pyn4ja)">
+                <g data-name="그룹 22420" style="opacity:.12;isolation:isolate">
+                    <g data-name="그룹 22419">
+                        <g data-name="그룹 22418" style="clip-path:url(#a1v22eew7b)">
+                            <path data-name="패스 98358" d="M7 10.2a4.969 4.969 0 0 1 .218-2.108 2.006 2.006 0 0 1 .874-.874A4.969 4.969 0 0 1 10.2 7h7.6a4.969 4.969 0 0 1 2.108.218 2.006 2.006 0 0 1 .874.874A4.969 4.969 0 0 1 21 10.2v7.6a4.969 4.969 0 0 1-.218 2.108 2.006 2.006 0 0 1-.874.874A4.969 4.969 0 0 1 17.8 21h-7.6a4.969 4.969 0 0 1-2.108-.218 2.006 2.006 0 0 1-.874-.874A4.969 4.969 0 0 1 7 17.8z" style="fill:none;stroke:#006dde"/>
+                        </g>
+                    </g>
+                </g>
+                <path data-name="패스 98359" d="M15 7V4.2a4.969 4.969 0 0 0-.218-2.108 2.006 2.006 0 0 0-.874-.874A4.969 4.969 0 0 0 11.8 1H4.2a4.969 4.969 0 0 0-2.108.218 2.006 2.006 0 0 0-.874.874A4.969 4.969 0 0 0 1 4.2v7.6a4.969 4.969 0 0 0 .218 2.108 2.006 2.006 0 0 0 .874.874A4.969 4.969 0 0 0 4.2 15H7m3.2 6h7.6a4.969 4.969 0 0 0 2.108-.218 2.006 2.006 0 0 0 .874-.874A4.969 4.969 0 0 0 21 17.8v-7.6a4.969 4.969 0 0 0-.218-2.108 2.006 2.006 0 0 0-.874-.874A4.969 4.969 0 0 0 17.8 7h-7.6a4.969 4.969 0 0 0-2.108.218 2.006 2.006 0 0 0-.874.874A4.969 4.969 0 0 0 7 10.2v7.6a4.969 4.969 0 0 0 .218 2.108 2.006 2.006 0 0 0 .874.874A4.969 4.969 0 0 0 10.2 21z" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none;stroke:#006dde"/>
+            </g>
+        </g>
+    </g>
+</svg>

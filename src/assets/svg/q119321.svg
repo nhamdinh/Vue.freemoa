@@ -1,0 +1,24 @@
+<svg data-name="그룹 19321" xmlns="http://www.w3.org/2000/svg" width="15.839" height="22" viewBox="0 0 15.839 22">
+    <defs>
+        <clipPath id="wmtjiang5a">
+            <path data-name="사각형 10286" style="fill:none;stroke:#006ed6" d="M0 0h15.839v22H0z"/>
+        </clipPath>
+        <clipPath id="1xss85um2b">
+            <path data-name="사각형 10284" transform="translate(6.919 13)" style="fill:none;stroke:#006ed6" d="M0 0h2v9H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 19320" style="clip-path:url(#wmtjiang5a)">
+        <g data-name="그룹 19319">
+            <g data-name="그룹 19318" style="clip-path:url(#wmtjiang5a)">
+                <g data-name="그룹 19317" style="isolation:isolate">
+                    <g data-name="그룹 19316">
+                        <g data-name="마스크 그룹 19315" style="clip-path:url(#1xss85um2b)">
+                            <path data-name="선 208" transform="translate(7.919 14)" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none;stroke:#006ed6" d="M0 0v7"/>
+                        </g>
+                    </g>
+                </g>
+                <path data-name="패스 95560" d="M2.8 3.194c-.294-.735-.441-1.1-.38-1.4a1 1 0 0 1 .427-.63A2.909 2.909 0 0 1 4.283 1h7.273a2.909 2.909 0 0 1 1.439.166 1 1 0 0 1 .426.63c.062.3-.085.663-.379 1.4l-1.008 2.52a2.02 2.02 0 0 0-.079.215.956.956 0 0 0-.029.149 1.945 1.945 0 0 0-.007.23v2.129a2.051 2.051 0 0 0 .021.411 1 1 0 0 0 .089.254 2.1 2.1 0 0 0 .241.334l1.57 1.962c.665.832 1 1.248 1 1.6a1 1 0 0 1-.376.782c-.275.218-.808.218-1.874.218H3.248c-1.065 0-1.6 0-1.872-.219A1 1 0 0 1 1 13c0-.351.333-.767 1-1.6l1.57-1.962a2.1 2.1 0 0 0 .24-.338 1 1 0 0 0 .09-.25 2.152 2.152 0 0 0 .02-.411V6.308a2.268 2.268 0 0 0-.006-.23 1.089 1.089 0 0 0-.029-.149 2.02 2.02 0 0 0-.079-.215z" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none;stroke:#006ed6"/>
+            </g>
+        </g>
+    </g>
+</svg>

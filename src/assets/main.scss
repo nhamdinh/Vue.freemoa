@@ -1,0 +1,32 @@
+@import './base.scss';
+
+.text-ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 96%;
+  max-width: 96%;
+}
+.text-ellipsis__2line {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  width: 96%;
+  max-width: 96%;
+
+  height: 40px; /* =2 line-height */
+}
+
+#app {
+  width: 100%;
+  min-width: 361px;
+  max-width: 361px;
+  margin: 0 auto;
+  font-weight: normal;
+  background-color: #fff;
+  border-top: solid 1px #bebdbd;
+  border-bottom: solid 1px #bebdbd;
+  height: 100%;
+}
