@@ -1,10 +1,3 @@
-.env
-VITE_BASE_DOMAIN = 'http://ec2-43-202-57-59.ap-northeast-2.compute.amazonaws.com:8080'
-VITE_SOCKET_DOMAIN = 'http://ec2-43-202-57-59.ap-northeast-2.compute.amazonaws.com:8080/ws'
-VITE_ENVIRONMENT='production'
-# VITE_BASE_DOMAIN = 'http://localhost:8080'
-# VITE_SOCKET_DOMAIN = 'http://localhost:8080/ws'
-.env
 # gixtpert
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -51,3 +44,10 @@ npm run build
 ```sh
 npm run lint
 ```
+.env
+VITE_BASE_DOMAIN = 'http://ec2-43-202-57-59.ap-northeast-2.compute.amazonaws.com:8080'
+VITE_SOCKET_DOMAIN = 'http://ec2-43-202-57-59.ap-northeast-2.compute.amazonaws.com:8080/ws'
+VITE_ENVIRONMENT='production'
+# VITE_BASE_DOMAIN = 'http://localhost:8080'
+# VITE_SOCKET_DOMAIN = 'http://localhost:8080/ws'
+.env
